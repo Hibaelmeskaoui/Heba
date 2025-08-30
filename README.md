@@ -1,4 +1,4 @@
-## Hi there, I'm Heba 👋
+<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ### Software Engineering Student & Web Enthusiast
 
@@ -16,5 +16,7 @@ I am currently seeking opportunities to apply my knowledge, contribute to a tale
 - [LinkedIn](https://www.linkedin.com/in/hiba-elmeskaoui-32765b381/)
 - [Portfolio Website](https://yourportfolio.com/)
 
+
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 ---
-*“Currently learning Next.js and TypeScript!”*
+

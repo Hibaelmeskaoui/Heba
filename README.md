@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Heba 👋
 
-<!--
-**Hibaelmeskaoui/Hibaelmeskaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student & Web Enthusiast
 
-Here are some ideas to get you started:
+I am a second-year Software Engineering student passionate about building elegant and functional web experiences...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Front-End:** HTML5, CSS3, JavaScript, React
+- **Tools & Others:** Git, GitHub, VS Code, Responsive Design
+
+### 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- [Portfolio Website](https://yourportfolio.com/)
+
+---
+*“Currently learning Next.js and TypeScript!”*
